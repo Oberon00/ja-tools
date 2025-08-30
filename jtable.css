@@ -1,0 +1,16 @@
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding-right: 0.6em;
+}
+
+.cat-kyu { color: red; }
+.cat-jou { color: blue; }
+.cat-jin { color: purple; }
+.cat-hcore { }
+.cat-h { color: grey; }
+.cat-x { color: lightgrey; }
