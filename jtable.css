@@ -1,0 +1,23 @@
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding-right: 0.6em;
+}
+
+tr > th {
+  font-weight: inherit;
+  font-size: 112%;
+}
+
+.cat-kyu { color: red; }
+.cat-jou { color: blue; }
+.cat-jin { color: purple; }
+.cat-hcore { }
+.cat-h { color: grey; }
+.cat-x { color: lightgrey; }
+
+table a { color: inherit; text-decoration: inherit;}
